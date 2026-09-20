@@ -20,5 +20,22 @@ the objectives in this project are:
 
 ## Architecture
 [.]
+the lab consists of a central SIEM server connected to Windows and Linux endpoints. Security logs are collected from them and analysed centrally.
 
+## Features
+- centralised log collection
+- security event monitoring
+- detection rules for suspicious activity
+- event investigation
+- automated analysis using python
+
+## Detections
+the SIEM currently detects:
+- [1]
+
+## Testing
+
+## Results
+  
+## Project structure
 
