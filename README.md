@@ -31,7 +31,7 @@ the lab consists of a central SIEM server connected to Windows and Linux endpoin
 
 ## Detections
 the SIEM currently detects:
-- [1]
+- [.]
 
 ## Testing
 
